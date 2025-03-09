@@ -1,0 +1,25 @@
+{
+  "name": "llms-playground",
+  "version": "1.0.0",
+  "description": "",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "yaxingson <3228891558@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "eslint": "^9.22.0",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.1"
+  },
+  "dependencies": {
+    "pinia": "^3.0.1",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  }
+}
