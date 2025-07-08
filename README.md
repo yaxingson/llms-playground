@@ -4,6 +4,8 @@
 
 - Supports injection of external data.
 - Rich output formats, such as mind、excel、ppt and live.
+- Prompt debugging and version management.
+- Monitoring and statistics of key data indicators.
 
 ## Prompt框架
 
